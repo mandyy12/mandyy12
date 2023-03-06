@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @mandyy12
-- 👀 I’m interested in Data Abalysis/ Data science
+- 👀 I’m interested in Data An
+- alysis/ Data science
 - 🌱 I’m currently learning Neural networks, excel, Tableau
 - 📫 How to reach me- jindal.manan9@gmail.com
 -
